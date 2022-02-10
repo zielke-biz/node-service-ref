@@ -96,7 +96,7 @@
     "eslint": "^7.1.0",
     "eslint-config-google": "^0.14.0",
     "jest": "^24.9.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.19.2",
     "shelljs": "^0.8.3",
     "supertest": "^4.0.2",
